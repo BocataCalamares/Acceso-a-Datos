@@ -1,0 +1,11 @@
+id_habitat,nombre,clima,altitud_media,temperatura_media
+1,Bosque Templado,Templado,1200,15.5
+2,Selva Tropical,Cálido Húmedo,300,26.8
+3,Tundra Alpina,Frío Extremo,3500,-2.4
+4,Desierto Sonora,Árido,500,31.2
+5,Sabana Africana,Tropical Seco,900,24.0
+6,Taiga Boreal,Subártico,800,3.1
+7,Arrecife Coralino,Tropical Marino,0,22.5
+8,Pradera Central,Continental,450,12.0
+9,Manglar Costero,Húmedo Costero,5,27.3
+10,Páramo Andino,Frío Húmedo,4000,7.8
