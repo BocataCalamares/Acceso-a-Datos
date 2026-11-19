@@ -6,7 +6,10 @@ import java.sql.ResultSet
 const val URL_BD =  "jdbc:mysql://localhost/habitats"
 const val USER_BD = "root"
 const val PASS_BD = "hola01"
-
+/**
+ * Creator Jonathan Rosa Aledón
+ * Entidad/es: Habitat & Vegetación
+ */
 // ====================== CONEXIÓN ======================
 
 /** Singleton que mantiene una única conexión a MySQL compartida por todos los DAO. */

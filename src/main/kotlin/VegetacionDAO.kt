@@ -2,6 +2,12 @@ import java.io.File
 import java.sql.ResultSet
 import java.sql.Statement
 
+
+/**
+ * Creator Jonathan Rosa Aledón
+ * Entidad/es: Habitat & Vegetación
+ */
+
 /** Representa una fila de la tabla 'vegetacion'. */
 data class Vegetacion(
     val idVegetacion: Int = 0,
